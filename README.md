@@ -6,12 +6,8 @@ Node
 ```sh
 node install
 ```
-Python codes
-
-1. pip install virtualenv
-2. source env/bin/activate
-3. pip install -r requirements.txt
-
+Python
+Check libraries from requirements.txt. Using python 3.9 
 
 ### Details how xgs is calculated
 Classifier model is trained 7 values. [More details from Distance and Angle](https://soccermatics.medium.com/should-you-write-about-real-goals-or-expected-goals-a-guide-for-journalists-2cf0c7ec6bb6)
