@@ -1,4 +1,4 @@
-# nhl_xgs
+# NHL XGS's 
 ### Calculata xgs from nhl games shooting data. Using gradientboostingclassifier. Store results to strapi backend. Node fetch data from api and send it to python server to calculate results.
 
 ## INSTALL
