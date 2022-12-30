@@ -14,7 +14,7 @@ Python codes
 
 
 ### Method of xgs
-Classifier model is trained 7 values. [More details ftom Distance and Angle](https://soccermatics.medium.com/should-you-write-about-real-goals-or-expected-goals-a-guide-for-journalists-2cf0c7ec6bb6)
+Classifier model is trained 7 values. [More details from Distance and Angle](https://soccermatics.medium.com/should-you-write-about-real-goals-or-expected-goals-a-guide-for-journalists-2cf0c7ec6bb6)
 
 1. Event distance from goal
 2. Goal angle
