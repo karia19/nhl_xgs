@@ -1,10 +1,10 @@
 # nhl_xgs
 ## Calculata xgs from nhl games shooting data
 
-###Node### 
+Node 
 node install
 
-###Python codes###
-pip install virtualenv
-source env/bin/activate
-pip install -r requirements.txt
+Python codes
+1. pip install virtualenv
+2. source env/bin/activate
+3. pip install -r requirements.txt
