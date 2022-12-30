@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+scipy==1.5.4
+requests
+#Cython==0.29.24
+statsmodels==0.13.2
+matplotlib
+flask
+flask_cors
