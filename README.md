@@ -13,7 +13,7 @@ Python codes
 3. pip install -r requirements.txt
 
 
-### Method of xgs
+### Details how xgs is calculated
 Classifier model is trained 7 values. [More details from Distance and Angle](https://soccermatics.medium.com/should-you-write-about-real-goals-or-expected-goals-a-guide-for-journalists-2cf0c7ec6bb6)
 
 1. Event distance from goal
