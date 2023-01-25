@@ -19,3 +19,16 @@ Classifier model is trained 7 values. [More details from Distance and Angle](htt
 5. Shot 
 6. Last Event proba to goal (pseudo)
 7. Events time difference
+
+
+## RUN PROJECT
+
+Start python server
+```sh
+python3 xg.py
+
+Run node this loads data from strapi backend calculate stats 
+```sh
+node index.js
+```
+
