@@ -26,7 +26,7 @@ Classifier model is trained 7 values. [More details from Distance and Angle](htt
 Start python server
 ```sh
 python3 xg.py
-
+```
 Run node this loads data from strapi backend calculate stats 
 ```sh
 node index.js
